@@ -4,7 +4,7 @@ Tool set: Python3, findspark, PySpark, Spark MLlib (for machine learning)
 Topics covered:
 * Introduction to Spark
 * Basic Operations on Spark dataframes
-* Data Anylysis with Spark
+* Data Analysis with Spark
 * Maching Learning with PySpark using MLlib
 
 ##### These projects' solutions can be used as reference while doing Udemy course "Spark and Python for Big Data with PySpark". 
