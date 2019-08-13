@@ -1,6 +1,5 @@
 ## Spark and Python for Big Data with PySpark – Udemy
-### Spark_on_AWS_EC2
-
+## Spark_on_AWS_EC2
 * Studied about Spark DataFrames and operations to analyze data, Spark ML - MLlib (machine learning library) with pySpark is used to build machine learning models (Linear regression, Logistic regression, Decision trees, K-Means clustering, basic NLP) for various projects and also applied Spark streaming on twitter data via socketing.
 
 • Set up the PySpark on AWS EC2 cloud service for this course.
